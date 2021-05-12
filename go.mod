@@ -4,4 +4,4 @@ go 1.16
 
 replace github.com/Joerger/module-versioning-test/submodule/v2 => ./submodule
 
-require github.com/Joerger/module-versioning-test/submodule/v2 v2.0.0-00010101000000-000000000000
+require github.com/Joerger/module-versioning-test/submodule/v2 v2.0.1
